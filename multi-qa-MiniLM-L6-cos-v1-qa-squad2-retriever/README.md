@@ -7,7 +7,7 @@ tags:
 - transformers
 ---
 
-# {MODEL_NAME}
+# {multi-qa-MiniLM-L6-cos-v1-qa-squad2-retriever}
 
 This is a [sentence-transformers](https://www.SBERT.net) model: It maps sentences & paragraphs to a 384 dimensional dense vector space and can be used for tasks like clustering or semantic search.
 
@@ -126,3 +126,4 @@ SentenceTransformer(
 ## Citing & Authors
 
 <!--- Describe where people can find more information -->
+Vasanth
